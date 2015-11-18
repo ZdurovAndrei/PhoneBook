@@ -1,0 +1,21 @@
+c:\users\maxim\documents\visual studio 2013\Projects\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+c:\users\maxim\documents\visual studio 2013\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+c:\users\maxim\documents\visual studio 2013\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+c:\users\maxim\documents\visual studio 2013\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+c:\users\maxim\documents\visual studio 2013\Projects\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+c:\users\maxim\documents\visual studio 2013\Projects\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+c:\users\maxim\documents\visual studio 2013\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+c:\users\maxim\documents\visual studio 2013\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+c:\users\maxim\documents\visual studio 2013\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.PhoneBookq.resources
+C:\Users\Андрей\Desktop\Неверкевич\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\Андрей\Desktop\Неверкевич\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Андрей\Desktop\Неверкевич\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\Андрей\Desktop\Неверкевич - копия\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\Андрей\Desktop\Неверкевич - копия\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Андрей\Desktop\Неверкевич - копия\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\Андрей\Desktop\Неверкевич - копия\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Неверкевич - копия\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Неверкевич - копия\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\Неверкевич - копия\PhoneBook\obj\Debug\PhoneBook.PhoneBook.resources
+C:\Users\Андрей\Desktop\Неверкевич - копия\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\Андрей\Desktop\Неверкевич - копия\PhoneBook\bin\Debug\PhoneBook.pdb
