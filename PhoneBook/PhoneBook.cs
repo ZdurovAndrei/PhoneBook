@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Windows.Forms;
+using System.Text.RegularExpressions;
 
 namespace PhoneBook
 {
@@ -24,9 +25,12 @@ namespace PhoneBook
         
         private void buttonSaveData_Click(object sender, EventArgs e)
         {
-            if (textBoxName.Text == "" && textBoxPhone.Text == "" && textBoxMail.Text == "")
+            Regex RegName = new Regex(@"[А-Я]{1}[а-я]+\s[А-Я]{1}[а-я]+\s[А-Я]{1}[а-я]");
+            Regex RegPhone = new Regex(@"\+\d{11}");
+            Regex RegMail = new Regex(@"\b[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}\b");
+            if (!RegName.IsMatch(textBoxName.Text) || textBoxName.Text == "" || !RegPhone.IsMatch(textBoxPhone.Text) || textBoxPhone.Text == "" || !RegMail.IsMatch(textBoxMail.Text) || textBoxMail.Text == "")
             {
-                MessageBox.Show(@"Вы не заполнили поля");
+                MessageBox.Show(@"Поля заполнены неправильно");
             }
             else
             {

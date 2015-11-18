@@ -19,3 +19,12 @@ C:\Users\Андрей\Desktop\Неверкевич - копия\PhoneBook\obj\De
 C:\Users\Андрей\Desktop\Неверкевич - копия\PhoneBook\obj\Debug\PhoneBook.PhoneBook.resources
 C:\Users\Андрей\Desktop\Неверкевич - копия\PhoneBook\bin\Debug\PhoneBook.exe
 C:\Users\Андрей\Desktop\Неверкевич - копия\PhoneBook\bin\Debug\PhoneBook.pdb
+E:\matfuck\ООП (Скращук)\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+E:\matfuck\ООП (Скращук)\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+E:\matfuck\ООП (Скращук)\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+E:\matfuck\ООП (Скращук)\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+E:\matfuck\ООП (Скращук)\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+E:\matfuck\ООП (Скращук)\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+E:\matfuck\ООП (Скращук)\PhoneBook\PhoneBook\obj\Debug\PhoneBook.PhoneBook.resources
+E:\matfuck\ООП (Скращук)\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+E:\matfuck\ООП (Скращук)\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache

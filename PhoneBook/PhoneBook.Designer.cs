@@ -53,7 +53,7 @@
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Controls.Add(this.textBoxName);
-            this.groupBox1.Location = new System.Drawing.Point(375, 12);
+            this.groupBox1.Location = new System.Drawing.Point(524, 9);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(266, 189);
             this.groupBox1.TabIndex = 0;
@@ -125,15 +125,16 @@
             this.Name,
             this.City,
             this.Phone});
-            this.dataGridView1.Location = new System.Drawing.Point(12, 12);
+            this.dataGridView1.Location = new System.Drawing.Point(12, 9);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(357, 189);
+            this.dataGridView1.Size = new System.Drawing.Size(506, 189);
             this.dataGridView1.TabIndex = 0;
             // 
             // Name
             // 
             this.Name.HeaderText = "ФИО";
             this.Name.Name = "Name";
+            this.Name.Width = 180;
             // 
             // City
             // 
@@ -144,12 +145,13 @@
             // 
             this.Phone.HeaderText = "Почта";
             this.Phone.Name = "Phone";
+            this.Phone.Width = 160;
             // 
             // PhoneBook
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(651, 210);
+            this.ClientSize = new System.Drawing.Size(802, 210);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.groupBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
